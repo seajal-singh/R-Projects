@@ -17,7 +17,7 @@ library(ggplot2)
 library(shinythemes)
 
 # Load data from CSV file
-movies <- read.csv("C://Users//HP//Desktop//R New Project//NewDataset.csv")
+movies <- read.csv("C://Users//HP//Downloads//movies.csv")
 
 # UI
 ui <- fluidPage(
